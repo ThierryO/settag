@@ -1,7 +1,7 @@
 Type: Package
 Package: settag
 Title: Testing the Ability of Checklist to Create a Minimal Package
-Version: 0.0.0
+Version: 0.0.1
 Authors@R:
     c(person(given = "Thierry",
              family = "Onkelinx",

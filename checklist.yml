@@ -2,4 +2,10 @@ description: Configuration file for checklist::check_pkg()
 package: yes
 allowed:
   warnings: []
-  notes: []
+  notes:
+  - motivation: Dummy package
+    value: |-
+      checking CRAN incoming feasibility ... NOTE
+      Maintainer: 'Thierry Onkelinx <thierry.onkelinx@inbo.be>'
+
+      New submission
